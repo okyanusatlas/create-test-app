@@ -1,9 +1,9 @@
 kind: Program
-program_type: cloud_analytics
+program_type: nwp
 program_name: PT Neuron
 program_code: ca
 tenant_org_code: gdc
-tenant_code: pt
+tenant_code: gd1
 wbs_code: i_83000990_002
 teams:
   gcp-vf-ca-zeta-owner: ['group:gcp-vf-pt-owner@example.com']
